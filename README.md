@@ -16,10 +16,3 @@ microservices with **Django**, **FastAPI**, and **PostgreSQL**.
 **APIs & Auth:** REST · Microservices · JWT/OAuth2 · OpenAPI/Swagger · Payme · Click · Uzum Bank
 **DevOps:** Docker · CI/CD · Nginx · Gunicorn · MinIO
 **Currently learning:** Data Science & Machine Learning
-
----
-
-### 📊 GitHub Stats
-
-![Ibroximjon's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibroximjontojiboyev&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ibroximjontojiboyev&layout=compact)
